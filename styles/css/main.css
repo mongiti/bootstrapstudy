@@ -6,10 +6,7 @@ body{
 	border-bottom-color: #FF8C00 3px solid;
 	opacity: 0.8;
 }
-.navbar-brand img{
-	width: 32px
-	height:32px;
-}
+
 .d-flex{
 	color:#FF8C00;
 }
